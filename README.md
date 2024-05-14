@@ -2,9 +2,6 @@
 - 🌱 Estudante de Engenharia de Software 
 - 👯 Estou em busca de oportunidades de estágio para aplicar e aprimorar meus conhecimentos
 - 😄 Pronouns:ela/dela
- 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https:/linkedIn.com/karolina-vieira-)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https:/instagram.com/karolina_vieira_)
 
 ![Karolina's GitHub stats](https://github-readme-stats.vercel.app/api?username=Karolina91&show_icons=true&theme=synthwave)
 
