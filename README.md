@@ -3,6 +3,8 @@
 - 👯 Estou em busca de oportunidades de estágio para aplicar e aprimorar meus conhecimentos
 - 😄 Pronouns:ela/dela
 
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)(https://www.instagram.com/karolina_vieira_)
+
 ![Karolina's GitHub stats](https://github-readme-stats.vercel.app/api?username=Karolina91&show_icons=true&theme=synthwave)
 
 ### Tecnologias que eu uso no meu dia 
